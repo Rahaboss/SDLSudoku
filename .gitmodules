@@ -1,0 +1,3 @@
+[submodule "lib/SDLPremake"]
+	path = lib/SDLPremake
+	url = git@github.com:Rahaboss/SDLPremake.git
